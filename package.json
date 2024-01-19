@@ -1,0 +1,21 @@
+{
+  "name": "qr-code-tool",
+  "version": "1.0.0",
+  "description": "A simple npm package for generating and reading QR codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr code",
+    "generator",
+    "reader",
+    "npm"
+  ],
+  "author": "Anurag Jha",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.4.4",
+    "jsqr": "^2.0.0"
+  }
+}
